@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.webpage {
+    font-family: sans-serif;
+    color: white;
+}
+
+.navbar {
+    background-color: rgb(21, 79, 112) !important;
+    font-size: 10px;
+    color: white;
+}
+
+.main-bg {
+    background-image: url("https://res.cloudinary.com/dewqgkvoi/image/upload/v1688102313/girl-sunglasses-purple-shirt-posing_ex4wxo.jpg");
+    background-size: cover;
+    height: 700px;
+}
+
+.home-text {
+    padding: 30px;
+}
+
+.home-text-para {
+    font-size: 20px;
+}
+
+.home-text-button {
+    border-radius: 10px;
+    border-width: 0px;
+    background-color: rgb(21, 79, 112);
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.frame-container {
+
+    color: black !important;
+    text-align: center;
+}
+
+.text-box-para {
+    font-size: 10px;
+}
+
+.text-box-head {
+    font-size: 15px;
+}
+
+.text-box {
+    padding: 20px;
+}
+
+.icon-box {
+    background-color: rgb(21, 79, 112);
+    border-radius: 50%;
+    height: 75px;
+    width: 75px;
+    margin-left: 110px;
+}
+
+.photo-1 {
+
+    width: 50vw;
+}
+
+.side-box {
+    font-size: 20px;
+    color: black;
+    text-align: right;
+    padding: 5px;
+
+}
+
+.photo-2 {
+    width: 40vw;
+    background-position: right top;
+    margin-left: 300px;
+}
+
+.contact {
+    text-align: left;
+    font-size: 25px;
+    color: black;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 50px;
+}
